@@ -12,7 +12,7 @@ Github地址：https://github.com/DaxStudio/DaxStudio
 
 # 2.DAX Studio文档
 ## 2.1 主窗口
-![如下图所示，是DAX Studio的主屏幕：](DAX-Studio-Guide/Img/DaxStudio_MainScreen.png)
+![如下图所示，是DAX Studio的主屏幕：](https://raw.githubusercontent.com/asxinyu/DAX-Studio-Guide/master/Img/DaxStudio_MainScreen.png)
 
 
 # 3.相关文章资源
