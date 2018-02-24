@@ -5,7 +5,7 @@
 
 # 1.Office PIA支持
 需要在安装Office 2013时,选择".NET"可编程支持，
-![如下图：](https://raw.githubusercontent.com/asxinyu/DAX-Studio-Guide/master/Img/Excel2013_PIA.png)
+![如下图：](https://raw.githubusercontent.com/asxinyu/DAX-Studio-Guide/master/Img/Excel2013_PIA.jpg)
 
 # 2.系统环境
 
@@ -17,10 +17,13 @@
 
 下面在安装过程中选择，安装包会自动下载完成，如下图：
 
-![选择](https://raw.githubusercontent.com/asxinyu/DAX-Studio-Guide/master/Img/DaxStudio_Install_Seleect.png)
+![选择](https://raw.githubusercontent.com/asxinyu/DAX-Studio-Guide/master/Img/DaxStudio_Install_Seleect.jpg)
 
-![提示](https://raw.githubusercontent.com/asxinyu/DAX-Studio-Guide/master/Img/DaxStudio_Install_tips.png)
+![提示](https://raw.githubusercontent.com/asxinyu/DAX-Studio-Guide/master/Img/DaxStudio_Install_tips.jpg)
 
-![下载过程国内情况不太乐观，比较慢，出现错误，可以重试几次：](https://raw.githubusercontent.com/asxinyu/DAX-Studio-Guide/master/Img/DaxStudio_Install_tips2.png)
+![跳出下载界面]
+(https://raw.githubusercontent.com/asxinyu/DAX-Studio-Guide/master/Img/daxstudio_install_tips2.jpg)
+
+![下载过程国内情况不太乐观，比较慢，出现错误，可以重试几次：](https://raw.githubusercontent.com/asxinyu/DAX-Studio-Guide/master/Img/DaxStudio_Install_tips2.jpg)
 
 下载完成进行安装即可。
