@@ -2,6 +2,8 @@
 
 我们将在这里介绍DAX Studio的功能，使用和相关技巧，主要来源于官网的英文资料。也会有一些使用案例和源代码分析。本文大部分文档都来自于[官网](http://daxstudio.org/documentation/)，只是将其翻译为中文，并辅助将个人文章和收集的文章进行汇总。
 
+ [功能列表](http://daxstudio.org/documentation/features/) | [视频](http://daxstudio.org/documentation/videos/) | [安装](http://daxstudio.org/documentation/installation/) | [故障排除](http://daxstudio.org/documentation/troubleshooting/)
+
 # 1.DAX Studio介绍
 DAX Studio是一个在Power BI,Power Pivot分析中，编写、执行和分析DAX查询表达式的开源工具,使用C#语言编写。DAX是PowerBI的灵魂，所以DAX Studio的出现极大的简化了学习和使用成本。
 
@@ -61,3 +63,6 @@ Dax Studio使用了下面的一些开源下面,没有这些下面的支持,也�
 4.马世权，[PowerBI的M与DAX之争](https://zhuanlan.zhihu.com/p/27416587)
 
 # 4.Power BI公众号
+1.PowerBI大师,微信号:PowerBIMaster
+2.数据挖掘助手,微信号:DataMiningHelper
+3.
