@@ -75,9 +75,13 @@ Dax Studio使用了下面的一些开源下面,没有这些下面的支持,也�
 
 # 4.Power BI公众号
 1.PowerBI大师,微信号:PowerBIMaster
+
 2.数据挖掘助手,微信号:DataMiningHelper
+
 3.PowerBI极客,微信号:
+
 4.PowerPivot工坊,微信号:PowerPivotWorks
+
 5.Excel120PowerBI,微信号:excel120
 
 #5.联系我
