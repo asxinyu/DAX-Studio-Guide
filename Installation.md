@@ -21,7 +21,6 @@
 
 ![提示](https://raw.githubusercontent.com/asxinyu/DAX-Studio-Guide/master/Img/daxstudio_install_tips.jpg)
 
-![跳出下载界面]
-(https://raw.githubusercontent.com/asxinyu/DAX-Studio-Guide/master/Img/daxstudio_install_tips2.jpg)
+![跳出下载界面](https://raw.githubusercontent.com/asxinyu/DAX-Studio-Guide/master/Img/daxstudio_install_tips2.jpg)
 
 下载过程国内情况不太乐观，比较慢，出现错误，可以重试几次.下载完成进行安装即可。
