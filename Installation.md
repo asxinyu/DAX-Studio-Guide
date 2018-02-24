@@ -1,13 +1,13 @@
 # DAX Studio安装
-
-我们将在这里介绍DAX Studio的功能，使用和相关技巧，主要来源于官网的英文资料。也会有一些使用案例和源代码分析。本文大部分文档都来自于[官网](http://daxstudio.org/documentation/)，只是将其翻译为中文，并辅助将个人文章和收集的文章进行汇总。
-
+很多朋友第一次安装的时候都会碰到问题，主要是由于系统环境问题，这里对安装进行介绍。
 
 # 1.Office PIA支持
-需要在安装Office 2013时,选择".NET"可编程支持，
+需要在安装Office 2013时,选择".NET可编程支持"，
 ![如下图：](https://raw.githubusercontent.com/asxinyu/DAX-Studio-Guide/master/Img/excel2013_pia.jpg)
 
-# 2.系统环境
+如果已经安装过，可以在控制面板中，修复安装程序，重新进行选择，如果还有问题，那就卸载重新安装吧。
+
+# 2.系统必须环境
 
 1..Net Framework 4.5
 
