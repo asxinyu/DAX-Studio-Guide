@@ -62,7 +62,19 @@ Dax Studio使用了下面的一些开源下面,没有这些下面的支持,也�
 
 4.马世权，[PowerBI的M与DAX之争](https://zhuanlan.zhihu.com/p/27416587)
 
+5.董斌辉，[DAX语法规范](https://mubu.com/edit/g8ojIiXFB)
+
 # 4.Power BI公众号
 1.PowerBI大师,微信号:PowerBIMaster
 2.数据挖掘助手,微信号:DataMiningHelper
-3.
+3.PowerBI极客,微信号:
+4.PowerPivot工坊,微信号:PowerPivotWorks
+
+#5.联系我
+如果您有好的建议,可以和我联系：
+
+E-mail: asxinyu@qq.com
+
+QQ:1287 2637 03
+
+WebChat:PowerDataWorld
