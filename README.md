@@ -10,7 +10,10 @@ DAX官网：http://daxstudio.org/
 Github地址：https://github.com/DaxStudio/DaxStudio
 
 
-# 2.DAX Studio功能
+# 2.DAX Studio文档
+## 2.1 主窗口
+![如下图所示，是DAX Studio的主屏幕：](./img/DaxStudio_MainScreen.png)
+
 
 # 3.相关文章资源
 1.微软Power BI官网学习资料：[链接](https://docs.microsoft.com/zh-cn/power-bi/service-get-started)
@@ -20,3 +23,5 @@ Github地址：https://github.com/DaxStudio/DaxStudio
 3.PowerBI极客-高飞：[认识DAX数据分析语言](https://mp.weixin.qq.com/s/WimTFi_Tt7-EPx-Kc6H4aw)
 
 4.马世权，[PowerBI的M与DAX之争](https://zhuanlan.zhihu.com/p/27416587)
+
+# 4.Power BI公众号
