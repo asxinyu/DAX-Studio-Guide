@@ -9,6 +9,8 @@ DAX Studio是一个在Power BI,Power Pivot分析中，编写、执行和分析DA
 
 DAX官网：http://daxstudio.org/
 
+安装包下载：http://daxstudio.org/downloads/
+
 Github地址：https://github.com/DaxStudio/DaxStudio
 
 
@@ -62,7 +64,7 @@ Dax Studio使用了下面的一些开源下面,没有这些下面的支持,也�
 
 4.马世权，[PowerBI的M与DAX之争](https://zhuanlan.zhihu.com/p/27416587)
 
-5.董斌辉，[DAX语法规范](https://mubu.com/edit/g8ojIiXFB)
+5.董斌辉，[DAX语法规范,思维导图](https://mubu.com/edit/g8ojIiXFB)
 
 # 4.Power BI公众号
 1.PowerBI大师,微信号:PowerBIMaster
